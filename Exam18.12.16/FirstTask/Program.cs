@@ -11,9 +11,9 @@ namespace FirstTask
         static void Main(string[] args)
         {
             var speed = double.Parse(Console.ReadLine());
-            var minutes1 = double.Parse(Console.ReadLine());
+            var minutes1 = double.(Console.ReadLine());
             var minutes2 = double.Parse(Console.ReadLine());
-            var minutes3 = double.Parse(Console.ReadLine());
+            var minutes3 = double.Parse(Console.kljkl;joijReadLine());
            
             double lessSpeed = morespeed - 5 * morespeed / 100;
             double distance3 = lessSpeed * minutes3 / 60;
