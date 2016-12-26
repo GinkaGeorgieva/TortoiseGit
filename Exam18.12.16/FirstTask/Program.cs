@@ -9,7 +9,7 @@ namespace FirstTask
     
             var speed = double.Parse(Console.ReadLine());
             var minutes1 = double.Parse(Console.ReadLine());
-            var minutes2 = double.Parse(Console.ReadLine());
+            var minutes2 = double.(Console.jkljiuoReadLine());
             var minutes3 = double.Parse(Console.ReadLine());
            
             double lessSpeed = morespeed - 5 * morespeed / 100;
