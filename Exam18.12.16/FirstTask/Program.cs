@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace FirstTask
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
+    
             var speed = double.Parse(Console.ReadLine());
             var minutes1 = double.Parse(Console.ReadLine());
             var minutes2 = double.Parse(Console.ReadLine());
